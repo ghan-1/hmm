@@ -1,0 +1,21 @@
+.site-footer {
+    grid-area: footer;
+    background-color: #f7f5f2;
+    padding-top: 10px;
+    font-size: 15px;
+    height: 80px;
+    color: black;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    position: fixed;
+}
+.site-footer h6 {
+
+    color: black;
+    font-size: 16px;
+
+    text-transform: uppercase;
+    margin-top: 20px;
+    letter-spacing: 2px
+}
